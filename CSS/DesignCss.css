@@ -1,0 +1,181 @@
+@charset "utf-8";
+/* CSS Document */
+
+.mothership{
+	width: 90%;
+	height: 1400px;
+	background-color: Gray;
+	margin: auto;
+	
+	
+}
+
+.header{
+	height:40%;
+	width:100%;
+	margin: auto;
+	position: relative;
+	background-image:url(../Images/Web11.JPG);
+	background-size: 100% 100%;
+	
+	
+	
+}
+	
+
+
+.Name {
+	    height:10%;
+		width:50%;
+		margin: auto;
+		text-align: center;
+		position: relative;
+		font-size: 36px;
+		top:px;
+		font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+		color: lightgrey;
+		background-color: transparent;
+		
+		
+	
+	}
+	
+footer{
+	height:5%;
+	border-top:solid;
+	border-width: 2%;
+	background-color: gray;
+	
+}
+	
+#lefttext{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 18px;
+	margin:5px;
+	height: 50%;
+	color: lightgray;
+}
+
+.Links{
+	float: left;
+	width: 15%;
+	margin: 5%;
+	height:15%;
+	margin-top: 200px;
+	color:#423535;
+	font-size: 30px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	
+}
+
+a {
+		text-decoration: none;
+		color:#3E3D3D;
+	}
+
+a:hover {
+    color: hotpink;
+	
+}
+
+.MainContent{
+	
+	width:100%;
+	height:55%;
+	background: linear-gradient(lightgray,gray);
+}
+	
+	
+	
+.ColumnOne{
+	background-color: transparent;
+	height:100%;
+	width:46%;
+	margin: 2%;
+	float: left;
+}
+
+.ColumnTwo{
+	background-color: transparent;
+	height: 100%;
+	width: 46%;
+	margin: 2%;
+	float: left;
+}
+
+.Carp {
+	height:46%;
+	width:96%;
+	margin:  2% 2% 2% 2%;
+	text-align: center;
+	z-index: 1;
+	
+	
+}
+
+#CarpMessage{
+	
+	height:10%;
+	position: relative;
+	top:-20%;
+	z-index: 1;
+	color:#423535;
+	font-size: 20px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+
+
+
+.Poster{
+	height:46%;
+	width:96%;
+	margin: 2% 2% 2% 2%;
+	text-align: center;
+
+
+}
+#PosterMessage{
+	
+	height:10%;
+	position: relative;
+	top:-60%;
+	left: -20%;
+	z-index: 1;
+	color:#423535;
+	font-size: 20px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+.Strawberry{
+	height: 46%;
+	width:90%;
+	margin: 2% 2% 2% 2%;
+	text-align: center;
+}
+#StrawberryMessage{
+	
+	height:10%;
+	position: relative;
+	top:-20%;
+	left: 5%;
+	z-index: 1;
+	color:hotpink;
+	font-size: 20px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+.IceCream{
+	height: 46%;
+	width: 90%;
+	margin: 2% 2% 2% 2%;
+	text-align: center;
+}
+#IceCreamMessage{
+	
+	height:10%;
+	position: relative;
+	top:-20%;
+	left: 5%;
+	z-index: 1;
+	color:#423535;
+	font-size: 20px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}

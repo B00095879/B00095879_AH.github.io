@@ -1,0 +1,112 @@
+@charset "utf-8";
+/* CSS Document */
+
+.mothership{
+	width: 90%;
+	height: 1400px;
+	background-color: Gray;
+	margin: auto;
+	background: linear-gradient(lightgray,gray);
+
+	
+	
+}
+
+.header{
+	height:40%;
+	width:100%;
+	margin: auto;
+	position: relative;
+	background-image:url(../Images/WEB9.JPG);
+	background-size: 100% 100%;
+	
+	
+	
+}
+	
+
+
+.Name {
+	    height:10%;
+		width:50%;
+		margin: auto;
+		text-align: center;
+		position: relative;
+		font-size: 36px;
+		top:px;
+		font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+		color: lightgrey;
+		background-color: transparent;
+		
+		
+	
+	}
+	
+footer{
+	height:5%;
+	border-top:solid;
+	border-width: 2%;
+	background-color: gray;
+	
+}
+	
+#lefttext{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 18px;
+	margin:5px;
+	height: 50%;
+	color: lightgray;
+}
+
+.Links{
+	float: left;
+	width: 15%;
+	margin: 5%;
+	height:15%;
+	margin-top: 200px;
+	font-size: 30px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	
+}
+
+a {
+		text-decoration: none;
+		color:ghostwhite;
+	}
+
+a:hover {
+    color: hotpink;
+	
+}
+
+.MainContent{
+	
+	width:100%;
+	height:55%;
+}
+	
+.VideoOne{
+	height:46%;
+	width: 45%;
+	text-align: center;
+	margin: auto;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	
+
+}
+
+iframe{
+	height: 100%;
+	width: 100%;
+	background-color: transparent;
+}
+
+.VideoTwo{
+	height: 46%;
+	width: 45%;
+	text-align: center;
+	background-color: rebeccapurple;
+	margin: auto;
+	margin-top: 2%;
+	margin-bottom: 2%;
